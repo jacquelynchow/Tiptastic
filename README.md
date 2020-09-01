@@ -23,6 +23,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 - [X] App logo and image
 - [X] Split bill and tip total amongst 1-3 people
+
 Currently working on:
 - [ ] Light Mode/Dark Mode
 - [ ] Maximum tip value for slider
