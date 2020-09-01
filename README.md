@@ -1,5 +1,6 @@
 # Tiptastic
 *Description:* Tip Calculator iOS App
+
 Following CodePath's tutorial for basic app functions
 
 ## Features
